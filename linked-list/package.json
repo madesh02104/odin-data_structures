@@ -1,0 +1,13 @@
+{
+  "name": "linked-list-project",
+  "version": "1.0.0",
+  "description": "A project to implement a linked list in JavaScript using ES6 modules.",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
