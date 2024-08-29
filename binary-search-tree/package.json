@@ -1,0 +1,14 @@
+{
+    "name": "balanced-bst",
+    "version": "1.0.0",
+    "description": "A project to implement a balanced binary search tree.",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
